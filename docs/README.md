@@ -92,9 +92,9 @@
 
 ## Controller
 ### EventController
-- [ ] 이벤트 플래너를 실행하는 클래스.
-    - [ ] InputView와 OutputView를 생성하고 EventPlannerController를 통해 이벤트 플래너 실행
-    - [ ] IllegalArgumentException이 발생할 경우 에러 메시지 출력
+- [x] 이벤트 플래너를 실행하는 클래스.
+    - [x] InputView와 OutputView를 생성하고 EventPlannerController를 통해 이벤트 플래너 실행
+    - [x] IllegalArgumentException이 발생할 경우 에러 메시지 출력
 
 ### EventPlannerController
 - [x] 이벤트 플래너를 제어하는 클래스.
