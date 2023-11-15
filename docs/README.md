@@ -37,8 +37,8 @@
     - [ ] 메뉴의 이름, 가격, 메뉴 타입을 반환하는 메서드
 
 ### MenuType
-- [ ] 메뉴의 종류를 나타내는 열거형.
-    - [ ] APPETIZER, MAIN, DESSERT, DRINK의 네 가지 메뉴 타입 존재
+- [x] 메뉴의 종류를 나타내는 열거형.
+    - [x] APPETIZER, MAIN, DESSERT, DRINK의 네 가지 메뉴 타입 존재
 
 ### Order
 - [ ] 주문 정보를 나타내는 클래스.
