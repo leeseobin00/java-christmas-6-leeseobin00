@@ -97,10 +97,10 @@
     - [ ] IllegalArgumentException이 발생할 경우 에러 메시지 출력
 
 ### EventPlannerController
-- [ ] 이벤트 플래너를 제어하는 클래스.
-    - [ ] 방문 날짜, 주문 목록 등을 초기화하여 생성
-    - [ ] BadgeCalculator, ChristmasDdayDiscount, WeekdayWeekendDiscount 등을 통해 할인 및 혜택 계산
-    - [ ] 혜택 및 할인 정보를 OutputView로 전달
+- [x] 이벤트 플래너를 제어하는 클래스.
+    - [x] 방문 날짜, 주문 목록 등을 초기화하여 생성
+    - [x] BadgeCalculator, ChristmasDdayDiscount, WeekdayWeekendDiscount 등을 통해 할인 및 혜택 계산
+    - [x] 혜택 및 할인 정보를 OutputView로 전달
 
 ## Validator
 ### DateValidator
