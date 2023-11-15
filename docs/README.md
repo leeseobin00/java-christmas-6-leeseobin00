@@ -67,30 +67,30 @@
     - [ ] 유효하지 않은 입력일 경우 에러 메시지 출력
 
 ### OutputView
-- [ ] 사용자에게 정보를 출력하는 클래스.
-- [ ] 우테코 식당 소개 출력 메서드
-    - [ ] 고정된 환영 메시지 출력
-- [ ] 방문 날짜 Request 출력 메서드
-    - [ ] 방문 날짜 입력을 요청하는 메시지 출력
-- [ ] 메뉴와 개수 Request 출력 메서드
-    - [ ] 메뉴와 개수 입력을 요청하는 메시지 출력
-- [ ] 예약한 날짜와 소개 출력 메서드
-    - [ ] EventPlannerController로부터 전달받은 방문 날짜를 출력
-    - [ ] "12월 {visitDate}일에 우테코 식당에서 받을 이벤트 혜택 미리 보기!" 메시지 출력
-- [ ] 주문 메뉴 출력 메서드
-    - [ ] EventPlannerController로부터 전달받은 주문 목록을 출력
-- [ ] 할인 전 총 주문 금액 출력 메서드
-    - [ ] EventPlannerController로부터 전달받은 총 주문 금액을 출력
-- [ ] 증정 메뉴 출력 메서드
-    - [ ] EventPlannerController로부터 전달받은 증정 메뉴를 출력
-- [ ] 혜택 내역 출력 메서드
-    - [ ] EventPlannerController로부터 전달받은 혜택 목록을 출력
-- [ ] 총 혜택 금액 출력 메서드
-    - [ ] EventPlannerController로부터 전달받은 총 혜택 금액을 출력
-- [ ] 할인 후 예상 결제 금액 출력 메서드
-    - [ ] EventPlannerController로부터 전달받은 할인 후 예상 결제 금액을 출력
-- [ ] 12월 이벤트 배지 출력 메서드
-    - [ ] EventPlannerController로부터 전달받은 배지를 출력
+- [x] 사용자에게 정보를 출력하는 클래스.
+- [x] 우테코 식당 소개 출력 메서드
+    - [x] 고정된 환영 메시지 출력
+- [x] 방문 날짜 Request 출력 메서드
+    - [x] 방문 날짜 입력을 요청하는 메시지 출력
+- [x] 메뉴와 개수 Request 출력 메서드
+    - [x] 메뉴와 개수 입력을 요청하는 메시지 출력
+- [x] 예약한 날짜와 소개 출력 메서드
+    - [x] EventPlannerController로부터 전달받은 방문 날짜를 출력
+    - [x] "12월 {visitDate}일에 우테코 식당에서 받을 이벤트 혜택 미리 보기!" 메시지 출력
+- [x] 주문 메뉴 출력 메서드
+    - [x] EventPlannerController로부터 전달받은 주문 목록을 출력
+- [x] 할인 전 총 주문 금액 출력 메서드
+    - [x] EventPlannerController로부터 전달받은 총 주문 금액을 출력
+- [x] 증정 메뉴 출력 메서드
+    - [x] EventPlannerController로부터 전달받은 증정 메뉴를 출력
+- [x] 혜택 내역 출력 메서드
+    - [x] EventPlannerController로부터 전달받은 혜택 목록을 출력
+- [x] 총 혜택 금액 출력 메서드
+    - [x] EventPlannerController로부터 전달받은 총 혜택 금액을 출력
+- [x] 할인 후 예상 결제 금액 출력 메서드
+    - [x] EventPlannerController로부터 전달받은 할인 후 예상 결제 금액을 출력
+- [x] 12월 이벤트 배지 출력 메서드
+    - [x] EventPlannerController로부터 전달받은 배지를 출력
 
 ## Controller
 ### EventController
